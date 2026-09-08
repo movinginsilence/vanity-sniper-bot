@@ -43,7 +43,7 @@ logger = logging.getLogger('VanitySniper')
 class VanitySniper(commands.Bot):
     def __init__(self):
         # CONFIGURATION - EDIT THESE VALUES
-        self.TOKEN = "MTI4OTY0NDkxNjUxNTAxNjgxOQ.GjsWP-.PozrQc-L3is_2G6dDeboTgoQLtGw2O83zlLKL8"
+        self.TOKEN = "MTI4OTY0NDkxNjUxNTAxNjgxOQ.GP7GL0.jdGTxp59ZQGAPEW6kz874Ds3sfFUDTqZwY00l0"
         self.GUILD_ID = 1498657544585875516  # Your server ID
         self.CHECK_INTERVAL = 1.0
         self.RETRY_DELAY = 5.0
